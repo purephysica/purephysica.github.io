@@ -1,0 +1,11 @@
+name: diary-skeleton
+safe: true
+lsi: false
+
+url: http://koriym.github.io/diary-skeleton
+title: diary-skeleton
+
+markdown: kramdown
+redcarpet:
+  extensions: ["autolink", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data", "tables"]
+highlighter: rouge
