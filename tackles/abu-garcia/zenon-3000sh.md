@@ -24,7 +24,7 @@ permalink: /tackles/abu-garcia/zenon-3000MSH
 
 ## 使用日数
 
-- 2021年09月26日 〜 2022年01月23日
+- 2021年09月26日 〜 現在
 
 ## 購入理由
 
@@ -56,21 +56,21 @@ permalink: /tackles/abu-garcia/zenon-3000MSH
 
 ### ロッド
 
-- AbuGarcia - XROSSFIELD (XRFS-862M) 116g
+- AbuGarcia | XROSSFIELD (XRFS-862M) | 116g
 
 ### メインライン
 
-- SeaKnight - MAX POWER Ⅱ (PE 4本編み 3号(多分) 15ポンド 多分100m)
+- SeaKnight | MAX POWER Ⅱ | PE | 4本編み  3号(多分)  15ポンド  多分100m
   - ※ 外国のPEなので 15ポンド = 1.5号 にはならない。かつ想像している1.5号よりも太い。
   - 日本のPEで言うと3号くらいの太さか…？
   - 4回ほど釣行したが、1回の釣行で黄色いラインが真っ白になる。
 
-- SHIMANO - PITBULL (PE 4本編み 1.2号 27.0ポンド 150m)
+- SHIMANO  | PITBULL | PE | 4本編み  1.2号 27.0ポンド 150m
   - 不満なし、日本のラインはやっぱりすごい。
 
 ### リーダー
 
-- DUEL - BIG フロロカーボン (フロロカーボン 16号 55ポンド 半ヒロ(80cm))
+- DUEL | BIG フロロカーボン | フロロカーボン | 16号 55ポンド 半ヒロ(80cm)
   - すげえ安い。パッケージデザインからして安そう
   - SCノットで結束
   - リーダーの結束がデカくなるんでアウトリーダー前提でキャストする
