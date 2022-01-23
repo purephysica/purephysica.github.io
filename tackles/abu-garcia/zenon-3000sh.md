@@ -6,6 +6,16 @@ permalink: /tackles/abu-garcia/zenon-3000MSH
 ---
 # AbuGarcia - Zenon 3000MSH
 
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6 col-sm-12 mb-2">
+        <div class="card w-100" style="width: 18rem;">
+            <img src="/images/picture/tackles/abu-galcia_zenon3000msh.png" class="card-img-top" alt="...">
+        </div>
+        </div>
+    </div>
+</div>
+
 ## 公式サイト
 
 - [PureFishing Japan - Zenon LP](https://www.purefishing.jp/zenon/)
@@ -108,7 +118,7 @@ XROSSFIELD (XRFS-862M) は 116g と比較的軽いため、問題は発生しな
 
 ゴップの発生率は使用者の操作に依存しがちなので、この手の問題の終始は付けづらいように思った。
 
-(思い浮かぶのは01ステラ………、SHIMANOが21年ほど苦悩して出した答えが22ステラだと自分は受け取ってます)
+(思い浮かぶのは01ステラ……、SHIMANOが約21年苦悩して出した答えが22ステラだと自分は受け取ってます)
 
 ## 結論
 
