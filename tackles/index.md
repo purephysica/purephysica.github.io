@@ -14,4 +14,4 @@ permalink: /tackles
 
 ### リール
 
-[AbuGarcia - Zenon 3000MSH](./abu-garcia/zenon-3000MSH)
+[AbuGarcia - Zenon 3000MSH](./tackles/abu-garcia/zenon-3000MSH)
