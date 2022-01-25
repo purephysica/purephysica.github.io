@@ -327,3 +327,8 @@ table {
 .markdown-body table td {
     padding: 6px 6px;
 }
+
+.w-60 {
+    width: 60%!important;
+}
+
