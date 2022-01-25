@@ -10,7 +10,7 @@ permalink: /tackles/abu-garcia/zenon-3000MSH
     <div class="row">
         <div class="col-lg-6 col-sm-12 mb-2">
         <div class="card w-100" style="width: 18rem;">
-            <img src="/images/picture/tackles/abu-galcia_zenon3000msh.png" class="card-img-top" alt="...">
+            <img src="/images/picture/tackles/abu-galcia_zenon3000msh.jpg" class="card-img-top" alt="...">
         </div>
         </div>
     </div>
