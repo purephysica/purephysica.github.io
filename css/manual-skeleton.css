@@ -323,3 +323,7 @@ html, body {
 table {
     white-space: nowrap;
 }
+
+.markdown-body table td {
+    padding: 6px 6px;
+}
