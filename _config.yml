@@ -10,5 +10,3 @@ redcarpet:
 highlighter: rouge
 
 url: "https://purephysica.github.io/"
-plugins:
-  - jekyll-sitemap
