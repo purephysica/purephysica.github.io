@@ -332,3 +332,25 @@ table {
     width: 60%!important;
 }
 
+.markdown-body h1 {
+  line-height: 1.4;
+  display: inline-block;
+  font-size: 2.8rem;
+}
+
+.markdown-body h1:before {
+  display: inline-block;
+  content: "#";
+  color: #0f5;
+  margin-right: 4px;
+}
+
+.markdown-body a {
+  color: #0f5 !important;
+  font-weight: 500;
+}
+
+.markdown-body a {
+  color: #0f5 !important;
+  font-weight: 500;
+}
