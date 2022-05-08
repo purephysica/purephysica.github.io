@@ -1,3 +1,16 @@
+<script>
+window.addEventListener('DOMContentLoaded', () => {
+   let jsTargets = document.getElementsByClassName('js-target');
+
+   for (var i = 0; jsTargets.length > i; i++) {
+   let isActive = jsTargets[i].href === location.href
+   if (isActive) {
+     jsTargets[i].classList.add('active');
+   }
+}
+})
+</script>
+
 <nav class="navbar navbar-expand-md navbar-light">
     <div class="navigation-header">
         <div class="ml-auto d-sm-block d-md-none">
@@ -8,24 +21,13 @@
     </div>
     <div class="collapse navbar-collapse" id="Navber">
         <ul class="navbar-nav mr-auto">
+            {% for page in site.pages reversed %}
+            {% if page.category == 'Diary' %}
             <li class="nav-item">
-                <a class="nav-link {% if page.permalink == '/introduction' %}active{% endif %}" href="/introduction">イントロダクション</a>
+                <a class="nav-link js-target" href="{{page.permalink}}">{{page.title}}</a>
             </li>
-            <li>
-                <a class="nav-link {% if page.permalink == '/diaries/2021_07_21' %}active{% endif %}" href="/diaries/2021_07_21">2021年07月21日</a>
-            </li>
-            <li>
-                <a class="nav-link {% if page.permalink == '/diaries/2021_10_03' %}active{% endif %}" href="/diaries/2021_10_03">2021年10月03日</a>
-            </li>
-            <li>
-                <a class="nav-link {% if page.permalink == '/diaries/2021_11_04' %}active{% endif %}" href="/diaries/2021_11_04">2021年11月04日</a>
-            </li>
-            <li>
-                <a class="nav-link {% if page.permalink == '/diaries/2022_04_23' %}active{% endif %}" href="/diaries/2022_04_23">2022年04月23日</a>
-            </li>
-            <li>
-                <a class="nav-link {% if page.permalink == '/diaries/2022_05_02' %}active{% endif %}" href="/diaries/2022_05_02">2022年05月02日</a>
-            </li>
+            {% endif %}
+            {% endfor %}
         </ul>
     </div>
 </nav>
