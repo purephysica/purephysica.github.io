@@ -1,0 +1,4 @@
+User-Agent:*
+Disallow:
+
+Sitemap:https://purephysica.github.io/sitemap.xml
