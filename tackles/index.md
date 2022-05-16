@@ -13,7 +13,7 @@ permalink: /tackles
 background-position: right;
     background-size: cover;
 ">
-    <p style="color: #fff; font-size: xxx-large; font-weight: 800; margin: 0;">タックル</p>
+    <p style="color: #fff; font-size: xx-large; font-weight: 800; margin: 0;">タックル</p>
 </div>
 
 # 概要
