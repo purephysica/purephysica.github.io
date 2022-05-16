@@ -354,3 +354,8 @@ table {
   color: #0f5 !important;
   font-weight: 500;
 }
+
+
+.markdown-body {
+    font-weight: 420;
+}

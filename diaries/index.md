@@ -4,7 +4,16 @@ title: イントロダクション
 category: Diary
 permalink: /introduction
 ---
-# イントロダクション
+
+<div style="justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 150px;
+    background-image: url(/images/picture/2021_07_21/1.jpeg);">
+<p style="color: #fff; font-size: xxx-large; font-weight: 800; margin: 0;">日誌</p>
+</div>
+
+# 概要
 
 このウェブサイトは、シーバスフィッシングにおける釣行日誌をメインコンテンツとしています。
 
