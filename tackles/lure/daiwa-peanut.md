@@ -1,5 +1,5 @@
 ---
-layout: docs
+layout: tackles
 title: DAIWA - PEANUT
 category: Tackle
 permalink: /tackles/lure/daiwa-peanut

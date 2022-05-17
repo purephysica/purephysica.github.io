@@ -1,5 +1,5 @@
 ---
-layout: docs
+layout: tackles
 title: AbuGarcia - Zenon 3000MSH
 category: Tackle
 permalink: /tackles/abu-garcia/zenon-3000MSH

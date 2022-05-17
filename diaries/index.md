@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: イントロダクション
+title: 概要
 category: Diary
 permalink: /introduction
 ---
