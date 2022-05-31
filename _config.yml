@@ -1,8 +1,8 @@
-name: 四季を楽しむ釣り日誌
+name: Cranker
 safe: true
 lsi: false
 
-title: 四季を楽しむ釣り日誌
+title: Cranker
 
 markdown: kramdown
 redcarpet:

@@ -36,11 +36,12 @@ header + .container {
 
 header .navbar-brand {
     display: block;
-    width: 32px;
+    width: 170px;
     height: 32px;
-    background-image: url(../images/logo.png);
+    background-image: url(../images/cranker_logo.svg);
     background-size: 100%;
     text-decoration: none;
+    background-repeat: no-repeat;
 }
 
 header .nav-link {
