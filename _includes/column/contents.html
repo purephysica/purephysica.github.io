@@ -1,0 +1,22 @@
+<script src="/js/generate-content-list.js"></script>
+
+<nav class="navbar navbar-expand-md navbar-light">
+    <div class="navigation-header">
+        <div class="ml-auto d-sm-block d-md-none">
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#Navber" aria-controls="Navber" aria-expanded="false" aria-label="ナビゲーションの切替">
+                ▼ コラム一覧
+            </button>
+        </div>
+    </div>
+    <div class="collapse navbar-collapse" id="Navber">
+        <ul class="navbar-nav mr-auto">
+            {% for page in site.pages reversed %}
+            {% if page.category == 'Column' %}
+            <li class="nav-item">
+                <a class="nav-link js-target" href="{{page.permalink}}">{{page.title}}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</nav>
