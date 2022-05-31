@@ -36,7 +36,7 @@ header + .container {
 
 header .navbar-brand {
     display: block;
-    width: 170px;
+    width: 190px;
     height: 32px;
     background-image: url(../images/cranker_logo.svg);
     background-size: 100%;
