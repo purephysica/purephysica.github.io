@@ -1,4 +1,8 @@
-# 四季を楽しむ釣り日誌
+# Cranker
+
+![Cranker](./images/cranker_logo_2.svg)
+
+https://purephysica.github.io/
 
 ## Getting Started
 
