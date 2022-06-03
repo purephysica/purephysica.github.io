@@ -9,7 +9,7 @@ permalink: /tackles/
     display: flex;
     align-items: center;
     height: 150px;
-    background-image: url(/images/picture/tackles/lure/daiwa-peanut/3.jpg);
+    background-image: url(/images/picture/IMG_5108.jpeg);
 background-position: right;
     background-size: cover;
 ">
