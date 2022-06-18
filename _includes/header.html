@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.css">
     <link rel="stylesheet" href="/css/syntax.css">
     <link rel="stylesheet" href="/css/manual-skeleton.css">
-    <link rel="manifest" href="/site.webmanifest">
     <link rel="icon" type="image/svg+xml" href="/images/icon/favicon.svg">
 </head>
 <body {% if page.category %}data-page-category="{{ page.category }}"{% endif %} data-spy="scroll" data-target="#ArticleToc" data-offset="65">
@@ -20,7 +19,7 @@
         <div class="navbar-nav-scroll">
             <ul class="navbar-nav flex-row">
                 <li class="nav-item">
-                    <a class="nav-link {% if page.category == 'Index' %}active{% endif %}" href="/index.html">ホーム</a>
+                    <a class="nav-link {% if page.category == 'Index' %}active{% endif %}" href="/">ホーム</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link {% if page.category == 'Diary' %}active{% endif %}" href="/introduction">日誌</a>
