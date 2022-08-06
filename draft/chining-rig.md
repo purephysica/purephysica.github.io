@@ -1,5 +1,5 @@
 ---
-layout: draftgi
+layout: draft
 title: 安価なチニングタックルの考察ち
 category: Fake
 permalink: /fake/thinking/chining-rig
