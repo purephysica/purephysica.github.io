@@ -1,8 +1,8 @@
 ---
-layout: column
-title: 安価なチニングタックルの考察
-category: Column
-permalink: /column/thinking/chining-rig
+layout: draftgi
+title: 安価なチニングタックルの考察ち
+category: Fake
+permalink: /fake/thinking/chining-rig
 ---
 
 ## 淀川でのシーバスフィッシングの状況は芳しくない
