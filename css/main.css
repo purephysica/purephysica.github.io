@@ -1,4 +1,8 @@
 html,
+
+html {
+    font-weight: 400;
+}
 body {
     min-height: 100vh;
 }
