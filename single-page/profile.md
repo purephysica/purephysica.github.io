@@ -7,11 +7,22 @@ permalink: /profile
 
 <div style="justify-content: center;
     height: 150px;
-    background-image: url(/images/picture/2021_07_21/1.jpeg);">
-<div style="width: 100%; display: flex; align-items: center; justify-content: center; background-color: rgb(12 12 12 / 35%); height: 100%;">
+    background-image: url(/images/picture/IMG_3954.jpg);
+background-position: right;
+    background-size: cover;
+">
+<div style="
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+    background-color: rgb(12 12 12 / 20%);
+    height: 100%;">
 <p style="color: #fff; font-size: xx-large; font-weight: 800; margin: 0;">自己紹介</p>
 </div>
 </div>
+
+
 
 # 著者のプロフィール
 
