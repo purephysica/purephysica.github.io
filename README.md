@@ -1,4 +1,4 @@
-# Cranker
+# Purephysica
 
 ![Cranker](./images/cranker_logo_2.svg)
 
@@ -15,6 +15,6 @@ docker pull jekyll/jekyll:pages
 ## Start local testing server
 
 ```
-./bin/serve.sh
+bin/start
 ```
 

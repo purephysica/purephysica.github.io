@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>{{ page.title }}{% if page.category != 'Index' %} |  Cranker{% endif %}</title>
-    <meta name="description" content="Crankerとは、クランクベイトに魅了されたアングラーによる釣り日誌です。">
+    <title>{{ page.title }}{% if page.category != 'Index' %} |  純粋物理学{% endif %}</title>
+    <meta name="description" content="僕が思う「遊び」を「学び」と形容するならば、それはすなわち「純粋物理学」と言えるでしょう。">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="//stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.css">
@@ -25,17 +25,11 @@
 <body {% if page.category %}data-page-category="{{ page.category }}"{% endif %} data-spy="scroll" data-target="#ArticleToc" data-offset="65">
 <header>
     <nav class="navbar navbar-expand flex-column flex-md-row bg-light">
-        <a class="navbar-brand mr-0 mr-md-4{% if page.category == 'Index' %} invisible{% endif %}" href="/index.html"></a>
+        <a class="navbar-brand mr-0 mr-md-4{% if page.category == 'Index' %} invisible{% endif %}" href="/"></a>
         <div class="navbar-nav-scroll">
             <ul class="navbar-nav flex-row">
                 <li class="nav-item">
-                    <a class="nav-link {% if page.category == 'Diary' %}active{% endif %}" href="/introduction">日誌</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link {% if page.category == 'Tackle' %}active{% endif %}" href="/tackles">タックル</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link {% if page.category == 'MakeLure' %}active{% endif %}" href="/make-lure">自作ルアー</a>
+                    <a class="nav-link {% if page.category == 'Diary' %}active{% endif %}" href="/introduction">釣り日誌</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link {% if page.category == 'Column' %}active{% endif %}" href="/column">コラム</a>

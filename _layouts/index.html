@@ -1,8 +1,41 @@
 {% include header.html %}
-<main class="container">
-    <div class="row">
-        <div class="col-md-12">
-            {{ content }}
+<main class="container-fluid">
+    <div class="row flex-xl-nowrap">
+        <div class="col-md-3 col-lg-2">
+        </div>
+        <div class="col-md-9 col-lg-8">
+            <article id="article" class="markdown-body">
+                {{ content }}
+
+                <h1>コラム一覧</h1>
+                <ul>
+                    {% for page in site.pages reversed %}
+                      {% if page.category == 'Column' %}
+                        {% if page.title != '概要' %}
+                        <li>
+                            <a style="font-weight: unset !important;"  href="{{page.permalink}}">{{page.title}}</a>
+                        </li>
+                        {% endif %}
+                      {% endif %}
+                    {% endfor %}
+                </ul>
+
+                <h1>釣り日誌一覧</h1>
+                <ul>
+                    {% for page in site.pages reversed %}
+                    {% if page.category == 'Diary' %}
+                    {% if page.title != '概要' %}
+                    <li>
+                        <a style="font-weight: unset !important;" href="{{page.permalink}}">{{page.title}}</a>
+                    </li>
+                    {% endif %}
+                    {% endif %}
+                    {% endfor %}
+                </ul>
+            </article>
+        </div>
+        <div id="ArticleToc" class="col-lg-2 d-none d-lg-block">
+            <nav class="nav side-bar-right"></nav>
         </div>
     </div>
 </main>
