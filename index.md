@@ -17,6 +17,6 @@ align-items: center;
 justify-content: center;
     background-color: rgb(12 12 12 / 20%);
     height: 100%;">
-<p style="color: #fff; font-size: xx-large; font-weight: 800; margin: 0;">純粋物理学</p>
+<p style="color: #fff; font-size: xx-large; font-weight: 800; margin: 0;">Purephysica</p>
 </div>
 </div>

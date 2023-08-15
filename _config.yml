@@ -1,8 +1,8 @@
-name: Cranker
+name: Purephysica
 safe: true
 lsi: false
 
-title: Cranker
+title: Purephysica
 
 markdown: kramdown
 redcarpet:
